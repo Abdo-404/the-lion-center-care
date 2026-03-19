@@ -40,7 +40,7 @@ a:hover{
 
 .section {
   padding: 80px 20px;
-  max-width: 1200px;
+  max-width: 1080px;
   margin: auto;
 }
 
@@ -101,7 +101,7 @@ a:hover{
   border-radius:15px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 1080px) {
 
   nav {
     padding: 15px 20px;
