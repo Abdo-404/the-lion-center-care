@@ -27,14 +27,14 @@ nav img{
   transform: scale(4)translateX(10px);
 }
 
-nav a{
+a{
   color:black;
   text-decoration:none;
   margin:0 15px;
   transition:.3s;
 }
 
-nav a:hover{
+a:hover{
   color:red;
 }
 
