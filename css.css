@@ -16,7 +16,6 @@ nav{
  background: rgb(223,209,196);
  display:flex;
  justify-content:space-between;
- align-items:center;
  padding:20px 50px;
  position: relative;
  top:0;
