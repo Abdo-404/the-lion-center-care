@@ -31,7 +31,6 @@ nav a{
   text-decoration:none;
   margin:0 15px;
   transition:.3s;
-  position: absolute;
 }
 
 nav a:hover{
